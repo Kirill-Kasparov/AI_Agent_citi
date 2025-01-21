@@ -83,7 +83,7 @@ python bot.py
 Бот отслеживает общее количество токенов, чтобы предотвратить превышение лимита. При достижении лимита отправляется уведомление администратору с возможностью его увеличения.
 
 ```python
-import telebot    # by Kirill Kasparov, 2024
+import telebot    # by Kirill Kasparov, 2025
 import requests
 import json
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
